@@ -1,0 +1,1971 @@
+xxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC EdMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP).itor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of manageme See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------  nt          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Ed Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard fitor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Networkor a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transpo Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard frt: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Geor a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANnerator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network TimeDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035 .]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             HistoricBase for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+            .]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identifica TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGENtion of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information     Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Profor Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structurtocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+            e and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Managem TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGENent Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002       Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+M    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+M63   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size DeclaratAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved ion 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+-----for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specifi---   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementacation     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structurtion and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now        e and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Managem xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMIent Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MI
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   B-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+       19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declarat      Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on ion 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementaa        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                      tion and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now                       863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Messa xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMIge Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED S        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MITANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management ProtoB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+       col. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          M      Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on ay 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                          a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                         1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        x               863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Messaxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol      ge Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED S                               863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service ExtTANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain naension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC mes - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Proto2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network col. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          MManagement Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Stanay 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                          dards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        x                   1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discarxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a Netd Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [WasBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol       Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIO                               863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service ExtS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC D)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD),2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMA Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI CIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network oncise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RManagement Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol StanFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxdards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions          x   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11                   1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 90
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]4). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB defin
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain Systemitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational    
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and                  [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             info methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFCrmation for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of  822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001    (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                    19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO         [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain SystemEcho Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEX19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+   T      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF A          1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and tRPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFChe Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Ma   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of il Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor    management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for               Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+-- Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol st------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+andard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Info
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of rmation Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOmanagement          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base forS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol st Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Hiandard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Netwstoric.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a       ork Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification   1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18   1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                  Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and id           1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions  entification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Info                           1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Prormation Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOtocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities     S    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+-------         TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21-   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Interne
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870t Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise M   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a       IB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior  1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methodsDeclaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (ST]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - imANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSplementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. NowED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                    xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008                             862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by 
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol              RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+                              863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Manageme      MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAINnt Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034        Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple       xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+    Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Proto         TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+        col Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions       of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155                           1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  121 (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsolet3   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS sered by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862vice on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed spe   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+            cifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocol STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                           xxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FOR             862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character GeED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES".nerator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STAN Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-basedDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+        Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035       MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+           13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic    information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+      .]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identifica       (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed spetion of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information cifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator ProtocolBase for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Proxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORtocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+            MAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declaration 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved  See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------  for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on a        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                                     863   21
+CHARGEN    Character Generator Protocolxxx   10
+             (STANDARD), Obsoleted by RFC 2821 (PROPOSED
+             STANDARD)]
+SMTP-SIZE  SMTP Service Extension for Message Size Declarat [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Edion 1870   10
+MAIL       ["STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT      xxx   11
+             MESSAGES". Was RFC 822 (STANDARD), Obsoleted by
+             RFC 2822 (PROPOSED STANDARD)]
+--------   [Reserved for Network Time Protocol (NTP). See RFC   xxx   12
+             1305.]
+DOMAIN     Domain names - concepts and facilities              1034   13
+DOMAIN     Domain names - implementation and specification     1035   13
+--------   [Was Mail Routing and the Domain System. Now         xxx   14
+             Historic.]
+--------   [Was Simple Network Management Protocol. Now         xxx   15
+             Historic.]
+
+
+
+RFC Editor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of management          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+       itor                   Informational                      [Page 3]
+
+RFC 5000          Internet Official Protocol Standards          May 2008
+
+
+SMI        Structure and identification of manageme      Historic.]
+NETBIOS    Protocol standard for a NetBIOS service on a        1001   19
+             TCP/UDP transport: Concepts and methods
+NETBIOS    Protocol standard for a NetBIOS service on nt          1155   16
+             information for TCP/IP-based internets
+Concise-MI Concise MIB definitions                             1212   16
+MIB-II     Management Information Base for Network Management  1213   17
+             of TCP/IP-based internets:MIB-II
+--------   [Was Exterior Gateway Protocol (RFC 904). Now        xxx   18
+             Historic.]
+NETBIOS    Protocol standard fa        1002   19
+             TCP/UDP transport: Detailed specifications
+ECHO       Echo Protocol                                        862   20
+DISCARD    Discard Protocol                      
