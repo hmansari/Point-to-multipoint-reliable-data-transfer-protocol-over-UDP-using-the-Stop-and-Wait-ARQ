@@ -7,12 +7,6 @@ a number of experiments to evaluate its performance by building various fundamen
 Editor Used : NetBeans
 JDK Version : java version "1.8.0_20"
 
-Compilation Of the Projects.
-
-1. Files in the projects are dependent on each other as we use the reference of one file into another.
-2. For compilation use the "Makefile" file that will automatically make the classes of the java files. 
-3. It is must for all the files to get compiled before running this project.
-
 Compilation and Running If using terminal:
 
 For Server:
